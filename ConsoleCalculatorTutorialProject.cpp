@@ -23,6 +23,7 @@ int main()
         cin >> x >> oper >> y;
         result = c.calculate(x, oper, y);
         cout << "Result " << "of " << x << oper << y << " is: " << result << endl;
+        cout << "playing with git and git hub\n";
     }
 }
 
